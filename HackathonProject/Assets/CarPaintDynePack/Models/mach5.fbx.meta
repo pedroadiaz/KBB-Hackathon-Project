@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: caa58697f272dee4f8f7c9ad9e6e70fd
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: escapes
+    100002: frontLights
+    100004: interior
+    100006: //RootNode
+    100008: mirror
+    100010: mirrorBase
+    100012: rearLights
+    100014: rim
+    100016: rim2
+    100018: rim3
+    100020: rim4
+    100022: seats
+    100024: tire1
+    100026: tire2
+    100028: tire3
+    100030: tire4
+    100032: tires2
+    100034: wheel
+    100036: wheelSupport
+    100038: window
+    400000: escapes
+    400002: frontLights
+    400004: interior
+    400006: //RootNode
+    400008: mirror
+    400010: mirrorBase
+    400012: rearLights
+    400014: rim
+    400016: rim2
+    400018: rim3
+    400020: rim4
+    400022: seats
+    400024: tire1
+    400026: tire2
+    400028: tire3
+    400030: tire4
+    400032: tires2
+    400034: wheel
+    400036: wheelSupport
+    400038: window
+    2300000: escapes
+    2300002: frontLights
+    2300004: interior
+    2300006: //RootNode
+    2300008: mirror
+    2300010: mirrorBase
+    2300012: rearLights
+    2300014: rim
+    2300016: rim2
+    2300018: rim3
+    2300020: rim4
+    2300022: seats
+    2300024: tire1
+    2300026: tire2
+    2300028: tire3
+    2300030: tire4
+    2300032: tires2
+    2300034: wheel
+    2300036: wheelSupport
+    2300038: window
+    3300000: escapes
+    3300002: frontLights
+    3300004: interior
+    3300006: //RootNode
+    3300008: mirror
+    3300010: mirrorBase
+    3300012: rearLights
+    3300014: rim
+    3300016: rim2
+    3300018: rim3
+    3300020: rim4
+    3300022: seats
+    3300024: tire1
+    3300026: tire2
+    3300028: tire3
+    3300030: tire4
+    3300032: tires2
+    3300034: wheel
+    3300036: wheelSupport
+    3300038: window
+    4300000: mach5
+    4300002: escapes
+    4300004: frontLights
+    4300006: mirrorBase
+    4300008: mirror
+    4300010: rearLights
+    4300012: window
+    4300014: interior
+    4300016: seats
+    4300018: wheel
+    4300020: wheelSupport
+    4300022: tires2
+    4300024: tire3
+    4300026: rim
+    4300028: tire2
+    4300030: rim2
+    4300032: tire1
+    4300034: rim3
+    4300036: tire4
+    4300038: rim4
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

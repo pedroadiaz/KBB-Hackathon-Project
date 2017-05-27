@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: bBodyJ
+  m_Shader: {fileID: 4800000, guid: a097df0817fb55a4b975eb5767943a8a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 3d4290724806c7b4d902191ef3be62e3, type: 3}
+          m_Scale: {x: 3, y: 3}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Cube
+        second:
+          m_Texture: {fileID: 8900000, guid: 24a07387217e2824a98315edb778a0fa, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _FlakeTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 021628e0f5e8ad546b7b6fa3e116e0f6, type: 3}
+          m_Scale: {x: 10, y: 15}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DecTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 0ad23f3a49575fd4599587c3d1b3629f, type: 3}
+          m_Scale: {x: 3, y: 3}
+          m_Offset: {x: -1, y: -1}
+      data:
+        first:
+          name: _DirtTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Shininess
+        second: .185080811
+      data:
+        first:
+          name: _FlakeAmt
+        second: .267857134
+      data:
+        first:
+          name: _RimAmt
+        second: 5.35714245
+      data:
+        first:
+          name: _RimPwr
+        second: 10
+      data:
+        first:
+          name: _FresAmt
+        second: .482142836
+      data:
+        first:
+          name: _DecAmt
+        second: 1
+      data:
+        first:
+          name: _FresPower
+        second: 15.7142859
+      data:
+        first:
+          name: _FresForce
+        second: 2
+      data:
+        first:
+          name: _FresPwr
+        second: 2
+      data:
+        first:
+          name: _DirtAmt
+        second: 1
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _ReflectColor
+        second: {r: .501960814, g: .501960814, b: .501960814, a: 1}
+      data:
+        first:
+          name: _RimColor
+        second: {r: 1, g: 0, b: 0, a: 1}
